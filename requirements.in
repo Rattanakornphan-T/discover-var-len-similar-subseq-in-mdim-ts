@@ -1,0 +1,12 @@
+pip-tools
+scikit-learn==1.5.2
+numpy
+pandas
+pyts
+ipykernel
+jupyter
+matplotlib
+tqdm
+tslearn
+yfinance
+seaborn
